@@ -1,0 +1,151 @@
+	.header-content-button{
+		float:right;
+		margin-left: 10px;
+	}
+	
+	#selectSemester{
+		    margin: 20px auto 10px auto;
+		        width: 90%;
+	}
+	
+	p {
+		height : 30px;
+	}
+	.main-section{
+		padding : 20px;
+		background-color : #cccccc;
+		width: 90%;
+		margin: 35px auto;
+	}
+	
+	.student-course{
+		background-color : white;
+		padding: 10px 0px;
+		margin :15px 0 0 0;
+	}
+	
+	.student-course-title{
+		font-size : 18px;
+	}
+	
+	.student-course-subcontent{
+		font-size: 14px;
+	}
+	
+	.student-course-content-button{
+		padding : 1px 15px 1px 0;
+		display: inline-block;
+	}
+	.student-course-total-content{
+		display: inline-block;
+	}
+	.student-course-detail-content{
+		display: inline-block;
+		text-align:center;
+	}
+	
+	.student-course-total{
+		display: inline-block;
+	}
+	.student-course-detail{
+		margin-right: 200px;
+		float: right;
+	}
+	
+	.moveBtn{
+		margin-top: -28px;
+	}
+	
+	#info{
+		width: 90%;	
+		margin: 0 auto;
+	}
+	
+	#notice{
+		float: right;
+		width: 33%;
+		margin-right: 5px;
+	}
+	
+	#lecture{
+		float: right;
+		width: 33%;
+		margin-right: 5px;
+	}
+	#lecture1{
+		float: right;
+		width: 33%;
+		margin-right: 5px;
+	}	
+	
+	#body{
+		margin-top: 25px;
+	}
+	
+	#header1{
+	    background:white;   /*배경색*/
+	    margin: 30px auto 0 auto;
+	    width: 92%;
+	    height: 100px;
+	    color: black;
+	}   	
+	.btn-info {
+	    width: 90%;
+	    height: 50px;
+	    margin: 20px;
+	}
+	
+	.btn-info{
+		width: 80%;
+		height: 30px;	
+	}
+	
+	.button{
+	    display: flex;  /* 1. 부모먼저 flex해주기 */
+	    flex-direction: column;
+	    margin: 10px;
+	    padding: 10px;
+	    justify-content: space-between;
+	}
+	
+	#loginBt{
+		border-radius: 45px;
+		width: 150px;
+		height: 50px;
+		border: rgb(56, 62, 90) 2px solid;
+		background: rgb(248, 246, 246);
+		color: black;
+		float: right;
+		margin: 20px 20px 0 0;
+	}
+	
+		#loginBt2{
+		border-radius: 45px;
+		width: 150px;
+		height: 50px;
+		border: rgb(56, 62, 90) 2px solid;
+		background: #009BCB;
+		color: black;
+		float: right;
+		margin: -50px 10px 0 0;
+	}
+
+	#subInfo{
+		width: 90%;
+		margin: 30px auto;
+	}
+
+	#myLecture{
+		float:left;
+	
+	}
+	.btn-secondary{
+		margin-bottom: 5px;
+	}
+	.ContentSpan{
+		margin : 0 10px;
+	}
+	#select{
+	    text-align: center;
+		width : 160px;
+	}

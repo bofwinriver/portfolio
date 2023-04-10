@@ -1,0 +1,54 @@
+#mainBody2{
+	width: 75%;
+	margin: 0 auto;
+	font-size: 15px;
+	margin-top:100px;
+	}
+
+	.clearfix{
+	margin-bottom: 15px;
+	}
+	
+	.clearfix:before, .clearfix:after {
+	    display: block;
+	    content: '';
+	    line-height: 0;
+	}
+	
+	.clearfix:after {
+	    clear:both;
+	}
+	
+	#mainBody2 .ni{
+	float: left;
+	margin: 10px 30px;
+	}
+	
+	#mainBody2 .nm{
+	float: left;
+	font-size: 20px;
+	}
+	
+	#mainBody2 .ndd{
+	float: right;
+	font-size: 20px;
+	}		
+	
+	.nd{
+	float: right;
+	font-size: 15px;
+	}	
+	
+	#inputTitleName{
+	float: right;
+	width: 40%;	
+	margin-right: 10px;
+	}
+	
+	#nonread{
+	float:right;
+	}
+	
+	#wirteNotice{
+		float:left;
+	}

@@ -1,0 +1,110 @@
+.board-outline {
+	width: 90%;
+	height: 20%;
+	border: 1px solid black;
+	margin: 10px auto 10px auto;
+}
+
+.contentTotal {
+	width: 100%;
+}
+
+.boarder-header {
+	width: 90%;
+	height: 20%;
+	border: 1px solid black;
+	padding: 9px 15px;
+	margin: 12px auto;
+	
+}
+
+hr {
+	width: 90%;
+}
+.titleSpan{
+	font-size : 16px;
+}
+.wirte-div {
+	align-items: center;
+	border-radius: 5px;
+	padding: 9px 15px;
+	font-size: 12px;
+	line-height: 17px;
+	background-color: rgb(21, 126, 244);
+	color: rgb(255, 255, 255);
+	margin-top: -2px;
+	float: right;
+	width: 90px;
+}
+.lockImg{
+
+	width : 13px;
+}
+
+#WirteImg{
+	width:13px;
+}
+
+.boarder-nonContent {
+	float: right;
+}
+
+.search-div {
+	width: 90%;
+	margin: 0 auto;
+	padding: 9px 12px;
+}
+
+.total-div {
+	width: 90%;
+	margin: 0 auto;
+}
+
+table {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+tr {
+	height: 40px;
+	border-bottom : solid 1px #cccccc;
+}
+
+#paging {
+	text-align: center;
+	margin: 10px auto 0 auto;
+	font-size :13px;
+}
+.noTd{
+	width : 8%;
+}
+.writerTd{
+	width : 15%;
+}
+.dateTd{
+	width : 20%;
+}
+.viewTd{
+	width : 15%;
+}
+.pageDiv{
+	font-size: 16px;
+    margin: 1px 3px;
+}
+#boardNameSpan{
+	font-size:20px;
+}
+#searchCountSpan{
+	font-size:15px;
+}
+hr{
+	    margin: 1rem auto;
+}
+#nextBtn{
+	margin-top: -2px;
+}
+
+#preBtn{
+	margin-top: -2px;
+}

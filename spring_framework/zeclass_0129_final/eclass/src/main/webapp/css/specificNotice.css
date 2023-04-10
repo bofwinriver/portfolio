@@ -1,0 +1,37 @@
+	.card{
+		width: 80%;
+		height: 70%;
+		margin: 70px auto;
+	}
+	.card-header{
+		height: 45px;
+	}
+	
+	.card-body{
+		height: 400px;
+	}
+
+	button {
+		float: right;
+	}
+	
+	#lectureContent {
+		height: 370px;
+		padding: 10px;
+	}
+	
+	.btn-secondary {
+		margin-right: 10px;
+	}
+	
+	
+	
+	input[type="submit"] {
+		float: right;
+	}
+	
+	.card-body #card-sub{
+		text-align : right;
+		font-size : 10px;
+		margin-bottom: 20px;
+	}
